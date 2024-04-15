@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/ikona_traya">
+        <file>batterylovericon.ico</file>
+    </qresource>
+    <qresource prefix="/ikona_bledu">
+        <file>erroricon.ico</file>
+    </qresource>
+    <qresource prefix="/ikona_main">
+        <file>M1.png</file>
+    </qresource>
+</RCC>
